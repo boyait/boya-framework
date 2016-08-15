@@ -1,12 +1,12 @@
-package com.github.boyait.boyaframework.core.security;
+package com.github.boyaframework.core.security;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.security.GeneralSecurityException;
 import java.security.MessageDigest;
 
-import com.github.boyait.boyaframework.core.utils.Encodes;
-import com.github.boyait.boyaframework.core.utils.Exceptions;
+import com.github.boyaframework.core.utils.Encodes;
+import com.github.boyaframework.core.utils.Exceptions;
 
 /**
  * 支持SHA-1/MD5消息摘要的工具类.

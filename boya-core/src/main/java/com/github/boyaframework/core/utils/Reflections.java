@@ -1,4 +1,4 @@
-package com.github.boyait.boyaframework.core.utils;
+package com.github.boyaframework.core.utils;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

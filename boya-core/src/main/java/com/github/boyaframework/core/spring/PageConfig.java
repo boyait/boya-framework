@@ -1,4 +1,4 @@
-package com.github.boyait.boyaframework.core.spring;
+package com.github.boyaframework.core.spring;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

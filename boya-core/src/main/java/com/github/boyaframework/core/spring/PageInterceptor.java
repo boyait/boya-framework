@@ -1,4 +1,4 @@
-package com.github.boyait.boyaframework.core.spring;
+package com.github.boyaframework.core.spring;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;
@@ -8,7 +8,7 @@ import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.reflect.MethodSignature;
 import org.springframework.stereotype.Component;
 
-import com.github.boyait.boyaframework.core.persistence.Page;
+import com.github.boyaframework.core.persistence.Page;
 import com.github.pagehelper.PageHelper;
 
 

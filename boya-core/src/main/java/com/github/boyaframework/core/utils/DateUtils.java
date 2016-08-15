@@ -1,4 +1,4 @@
-package com.github.boyait.boyaframework.core.utils;
+package com.github.boyaframework.core.utils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

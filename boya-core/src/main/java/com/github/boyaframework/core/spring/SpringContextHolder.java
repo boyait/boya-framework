@@ -1,4 +1,4 @@
-package com.github.boyait.boyaframework.core.spring;
+package com.github.boyaframework.core.spring;
 
 import org.apache.commons.lang3.Validate;
 import org.slf4j.Logger;

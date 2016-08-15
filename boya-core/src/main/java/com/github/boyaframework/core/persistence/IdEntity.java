@@ -1,4 +1,4 @@
-package com.github.boyait.boyaframework.core.persistence;
+package com.github.boyaframework.core.persistence;
 
 import java.io.Serializable;
 

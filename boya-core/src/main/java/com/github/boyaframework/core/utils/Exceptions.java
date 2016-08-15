@@ -1,4 +1,4 @@
-package com.github.boyait.boyaframework.core.utils;
+package com.github.boyaframework.core.utils;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
